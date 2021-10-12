@@ -1,0 +1,3 @@
+This week was exceptionally fun. I followed with the videos and build out the environment of a simple office maze. I learned a lot of really useful stuff for build the environment, interacting with the objects in VR and teleport my camera to where ever I want. To build the environment, we used ProBuilder and ProGrids. They help me to align whe walls and floors. ProBuilder helps to build customized objects such as the key I used in the maze game.  Also I was introduced XR Plugin Management, XR Interaction Toolkit, and Oculus XR Plugin. 
+
+To interact with objects, we set Layer and Interaction Layer Mask. And specify the layer in the left-hand or right-hand controller. I also built teleport area objects laying above the floors to teleport the rig to the pinted spot. 
